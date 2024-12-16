@@ -6,3 +6,4 @@ neosmemo/memos
 fatedier/frp
 snowdreamtech/frpc
 snowdreamtech/frps
+neosmemo/memos
