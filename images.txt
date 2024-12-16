@@ -5,3 +5,4 @@ kasmweb/nginx:1.25.3
 fatedier/frp
 snowdreamtech/frpc
 snowdreamtech/frps
+neosmemo/memos:stable
